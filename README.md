@@ -118,7 +118,7 @@
   
   <audio controls> <source src="señorita.mp3" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
  
-   <img src="C:\Users\MINEDUCYT\Documents\imagen de rapidos y furiosos1.jpeg" width="400" height="200"/>
+   <img src="C:\Users\MINEDUCYT\Documents\rpd.png" width="400" height="200"/>
 
      <video width="600" height="400" controls>
     <source src="C:\Users\MINEDUCYT\Downloads\WhatsApp Video 2024-09-18 at 2.01.10 PM.mp4" type="video/mp4">
